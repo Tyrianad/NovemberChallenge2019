@@ -1,4 +1,4 @@
-# vue-test
+# howtodocewell - Christmas Challenge
 
 ## Project setup
 ```
