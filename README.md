@@ -1,4 +1,4 @@
-# howtodocewell - Christmas Challenge
+# howtocodewell - Christmas Challenge
 
 ## Project setup
 ```
